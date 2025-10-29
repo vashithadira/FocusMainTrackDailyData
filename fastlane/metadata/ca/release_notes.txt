@@ -1,0 +1,1 @@
+Correcció derrors, millores de rendiment, localització de metadades

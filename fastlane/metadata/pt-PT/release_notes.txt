@@ -1,0 +1,1 @@
+Correções de bugs, melhorias de desempenho, localização de metadados.

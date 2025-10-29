@@ -1,0 +1,1 @@
+Hata düzeltmeleri, performans iyileştirmeleri, meta veri yerelleştirmesi

@@ -1,0 +1,1 @@
+Buggfixar, prestandaförbättringar, lokalisering av metadata
